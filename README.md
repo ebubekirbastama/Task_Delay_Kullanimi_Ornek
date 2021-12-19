@@ -1,1 +1,1 @@
-# Task_Delay_Kullanimi_Ornek
+# Task Delay Kullanimi Örnek
